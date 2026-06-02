@@ -113,4 +113,4 @@ Or deploy to any Node.js host — the build outputs static HTML where possible (
 
 ---
 
-*Built by [Your Name] · Spring Street Frontend Engineering Assignment*
+*Built by Kulshreshth Chikara · Spring Street Frontend Engineering Assignment*
